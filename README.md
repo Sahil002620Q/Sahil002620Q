@@ -38,7 +38,7 @@
       </a>
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://github.com/Sahil002620Q/py-project">
+      <a href="https://github.com/Sahil002620Q/PyPlaygroung">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=py-project&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
       </a>
     </td>
