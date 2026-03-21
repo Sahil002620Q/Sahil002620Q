@@ -10,7 +10,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:000000&height=3"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 ## 📊 GitHub Stats
 
@@ -26,7 +28,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil002620Q&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 ## 🚀 Top Repositories
 
@@ -58,7 +62,9 @@
   </tr> -->
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 ## 📈 Activity Graph
 
@@ -66,7 +72,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil002620Q&theme=react-dark&bg_color=000000&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 
 ## 🧠 Tech & Tools
@@ -157,7 +165,9 @@
   </table>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 ## 🐍 Contribution Snake
 
@@ -165,7 +175,9 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 ## 🌐 Connect With Me
 
@@ -190,7 +202,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:000000&height=3"/>
