@@ -1,28 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on backend basics with FastAPI and small Python projects  <br>👯 I’m looking to collaborate on beginner-friendly web or backend projects  <br>🤝 I’m looking for help with improving problem-solving and real-world development skills  <br>🌱 I’m currently learning Linux, FastAPI, and JavaScript  <br>💬 Ask me about Python, C, and Linux basics  <br>⚡ Fun fact: I prefer learning by building real projects rather than just theory
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sahil;Neon+Code+Enthusiast;Building+Cool+Projects+⚡" />
+</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sahil_002620q) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smax06388@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahil002620Q&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sahil002620Q&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil002620Q&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sahil002620Q&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sahil002620Q&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00f7ff&height=200&section=header&text=Sahil002620Q&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sahil002620Q&icon=0&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/smax06388@gmail.com) 
+## ⚡ About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```diff
++ 💻 Passionate Developer
++ 🚀 Love building futuristic projects
++ 🌌 Exploring new technologies
+```
+
+---
+
+## 🚀 Neon GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil002620Q&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil002620Q&theme=black-ice&hide_border=true&stroke=00f7ff&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil002620Q&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
+</p>
+
+---
+
+## 🌟 Top Repositories (Neon Glow)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=REPO1&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=REPO2&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=REPO3&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=REPO4&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
+</p>
+
+---
+
+## 📊 Activity Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil002620Q&theme=react-dark&bg_color=000000&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Tech Stack (Neon Badges)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-000000?style=for-the-badge&logo=python&logoColor=00f7ff"/>
+  <img src="https://img.shields.io/badge/Code-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00f7ff"/>
+  <img src="https://img.shields.io/badge/Frontend-React-000000?style=for-the-badge&logo=react&logoColor=00f7ff"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00f7ff"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:000000&height=120&section=footer"/>
+</p>
