@@ -68,32 +68,94 @@
 
 ---
 
+
 ## 🧠 Tech & Tools
 
-<p align="center"><b>Languages</b><br>
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00f7ff"/>
-</p>
+<div align="center">
 
-<p align="center"><b>Tools & IDEs</b><br>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=00f7ff"/>
-</p>
+### Languages
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="C/C++"/>
+        <br>C / C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML"/>
+        <br>HTML
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS"/>
+        <br>CSS
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center"><b>Deployment & Networking</b><br>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Ngrok-000000?style=for-the-badge&logo=ngrok&logoColor=00f7ff"/>
-<img src="https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=00f7ff"/>
-</p>
+### Tools & Platforms
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
+        <br>Linux
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm"/>
+        <br>PyCharm
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Deployment & Networking
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/vercel/ffffff" width="65" height="65" alt="Vercel"/>
+        <br>Vercel
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/render/ffffff" width="65" height="65" alt="Render"/>
+        <br>Render
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/cloudflare/ffffff" width="65" height="65" alt="Cloudflare"/>
+        <br>Cloudflare
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/ngrok/ffffff" width="65" height="65" alt="Ngrok"/>
+        <br>Ngrok
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/cisco/ffffff" width="65" height="65" alt="Networking"/>
+        <br>Networking
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -101,6 +163,20 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Sahil002620Q">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Add LinkedIn later if you want -->
 </p>
 
 ---
