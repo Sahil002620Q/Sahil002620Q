@@ -39,7 +39,7 @@
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Sahil002620Q/PyPlayground.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=PyPlaygroung&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=PyPlayground&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
       </a>
     </td>
   </tr>
