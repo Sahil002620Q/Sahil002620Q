@@ -170,13 +170,24 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sahil002620q">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:smax06388@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
   <a href="https://github.com/Sahil002620Q">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sahil002620Q">
+  <img src="https://komarev.com/ghpvc/?username=Sahil002620Q&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
-  <!-- Add LinkedIn later if you want -->
 </p>
 
 ---
