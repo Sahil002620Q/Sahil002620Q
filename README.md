@@ -13,9 +13,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p
-
+<!--
 ## 📊 GitHub Stats
-
+-->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil002620Q&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&bg_color=000000" />
 </p>
@@ -31,9 +31,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p
-
+<!--
 ## 🚀 Top Repositories
-
+-->
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
@@ -65,9 +65,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p
-
+<!--
 ## 📈 Activity Graph
-
+-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil002620Q&theme=react-dark&bg_color=000000&color=00f7ff&line=00f7ff&point=ffffff&hide_border=true" />
 </p>
@@ -77,7 +77,7 @@
 </p
 
 
-## 🧠 Tech & Tools
+<!--## 🧠 Tech & Tools-->
 
 <div align="center">
 
@@ -168,9 +168,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p
-
+<!--
 ## 🐍 Contribution Snake
-
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
