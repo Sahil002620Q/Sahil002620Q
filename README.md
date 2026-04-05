@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahil002620Q&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&bg_color=000000" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Sahil002620Q&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f7ff&icon_color=00f7ff&text_color=ffffff&bg_color=000000" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil002620Q&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sahil002620Q&layout=compact&theme=tokyonight&hide_border=true&title_color=00f7ff&text_color=ffffff&bg_color=000000" />
 </p>
 
 <p align="center">
@@ -38,12 +38,12 @@
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Sahil002620Q/CODEBASE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=CODEBASE&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Sahil002620Q&repo=CODEBASE&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
       <a href="https://github.com/Sahil002620Q/PyPlayground.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahil002620Q&repo=PyPlayground&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Sahil002620Q&repo=PyPlayground&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
       </a>
     </td>
   </tr>
