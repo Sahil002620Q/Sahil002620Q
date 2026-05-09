@@ -37,8 +37,8 @@
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://github.com/Sahil002620Q/CODEBASE">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Sahil002620Q&repo=CODEBASE&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
+      <a href="https://github.com/Sahil002620Q/dev-hub">
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Sahil002620Q&repo=dev-hub&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
