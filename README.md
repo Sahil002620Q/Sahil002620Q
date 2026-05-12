@@ -2,13 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Sahil;Full+Stack+Developer;Networking+%7C+Linux+%7C+Deployment;Building+Cool+Projects+" />
 </h1>
 
-<p align="center">
+<img src="https://github.com/justinT-uH/justinT-uH/blob/main/5808d81b-e0ad-40e6-8822-ac92a0fddbb1.gif">
+
+<!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=180&section=header&text=Sahil002620Q&fontSize=40&fontColor=00f7ff&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:000000&height=3"/>
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
