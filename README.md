@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Sahil;Full+Stack+Developer;Networking+%7C+Linux+%7C+Deployment;Building+Cool+Projects+" />
 </h1>
 
-<img src="https://github.com/justinT-uH/justinT-uH/blob/main/5808d81b-e0ad-40e6-8822-ac92a0fddbb1.gif">
-
+<p align="center">
+<img  src="https://github.com/justinT-uH/justinT-uH/blob/main/5808d81b-e0ad-40e6-8822-ac92a0fddbb1.gif" >
+</p>
 <!--<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f7ff&height=180&section=header&text=Sahil002620Q&fontSize=40&fontColor=00f7ff&animation=fadeIn"/>
 </p>
