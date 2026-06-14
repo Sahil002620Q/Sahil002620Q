@@ -45,8 +45,8 @@
       </a>
     </td>
     <td align="center" width="50%" style="border: none; padding: 10px;">
-      <a href="https://github.com/Sahil002620Q/PyPlayground.git">
-        <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Sahil002620Q&repo=PyPlayground&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
+      <a href="https://github.com/Sahil002620Q/dev-tools.git">
+        <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=Sahil002620Q&repo=dev-tools&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00f7ff&text_color=ffffff" />
       </a>
     </td>
   </tr>
