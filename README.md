@@ -179,7 +179,38 @@
     </tr>
   </table>
 </div>
+<!--hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-->
 
+
+### Libraries & Technologies
+<div align="center">
+  <table>
+    <tr>
+       <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65" height="65" alt="NumPy"/>
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="Requests"/>
+        <br>Requests
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.simpleicons.org/json/ffffff" width="65" height="65" alt="JSON"/>
+        <br>JSON
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="65" height="65" alt="OpenCV"/>
+        <br>OpenCV
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="FastAPI"/>
+        <br>FastAPI
+      </td>
+    </tr>
+  </table>
+</div>
+<!--hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh-->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p
