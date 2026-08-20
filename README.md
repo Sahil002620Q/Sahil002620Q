@@ -86,6 +86,13 @@
 
 ### Languages
 <div align="center">
+  <!--start here-->
+<!-- <td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
+       width="75" height="45" alt="Jupyter"/>
+</td> -->
+<!--Jupyter logo/-->
+  <!-- end here-->
   <table>
     <tr>
       <td align="center" width="96">
@@ -96,10 +103,11 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
         <br>Python
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
-        <br>JavaScript
-      </td>
+       <td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+       width="65" height="65" alt="Bash"/>
+  <br>Bash
+</td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML"/>
         <br>HTML
@@ -124,18 +132,22 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
         <br>Git
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
+      <!-- <td align="center" width="96">
+         <img src="https://cdn.simpleicons.org/github/ffffff" width="65" height="65" alt="GitHub"/>
         <br>GitHub
+      </td> -->
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter"/>
+        <br>Jupyter
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VS Code"/>
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm"/>
-        <br>PyCharm
-      </td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="65" height="65" alt="MariaDB"/>
+        <br>MariaDB
+    </td>
     </tr>
   </table>
 </div>
@@ -161,8 +173,8 @@
         <br>Ngrok
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/cisco/ffffff" width="65" height="65" alt="Networking"/>
-        <br>Networking
+        <img src="https://cdn.simpleicons.org/docker/ffffff" width="65" height="65" alt="Docker"/>
+        <br>Docker
       </td>
     </tr>
   </table>
