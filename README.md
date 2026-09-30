@@ -4,6 +4,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Sahil;AI+%26+ML+Learner;Python+%7C+C%2B%2B+%7C+Bash+%7C+Linux;Exploring+AI+%26+Systems;DSA+%7C+Problem+Solving;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
 </h1>
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdoZHA4czd1dWV0enh4dDE5MXdhZ3dvNmxieW05ZXdmODRsMWlqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QpVUMRUJGokfqXyfa1/giphy.gif" width="60%" alt="Coding animation" />
+</div>
+
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+,+I'm+Sahil;AI+%26+ML+Developer;Python+%7C+C%2B%2B+%7C+Linux;Building+%26+Learning" />
 </h1> -->
