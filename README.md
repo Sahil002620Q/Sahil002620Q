@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/PramudithaN/git-tulkun">
+  <!-- <a href="https://github.com/PramudithaN/git-tulkun"> -->
     <img src="https://raw.githubusercontent.com/Sahil002620Q/Sahil002620Q/output/tulkun/tulkun.gif" width="640" alt="git-tulkun swimming" />
   </a>
 </p>
